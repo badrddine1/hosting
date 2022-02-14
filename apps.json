@@ -25,5 +25,13 @@
             "url":"https://play.google.com/store/apps/details?id=com.SlovaStudio.Fnf.Girlfriend.Race.HeelsMod"
         }
 
+    ],
+    "myApps_notification":[
+        {
+            "test.packeg.com":"false",
+            "test2.packeg2.com":"true",
+            "test3.packeg4.com":"false",
+            "test5.packeg5.com":"true"
+        }
     ]
 }
