@@ -29,7 +29,7 @@
     "myApps_notification":
         {
             "com.SlovaStudio.SecurityBreach.Shoot.Monster.horror.game":"false",
-            "test2.packeg2.com":"true",
+            "com.SlovaStudio.SecurityBreach.Horror.WallBreaker.game":"false",
             "test3.packeg4.com":"false",
             "test5.packeg5.com":"true"
         }
